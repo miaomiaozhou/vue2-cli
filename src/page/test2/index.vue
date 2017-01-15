@@ -1,5 +1,6 @@
 <template>
     <div class="example">{{ msg }}</div>
+    <div>咩咩test</div>
 </template>
 <script>
     export default {
