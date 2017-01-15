@@ -1,6 +1,8 @@
 <template>
-    <div class="example">{{ msg }}</div>
-    <div>咩咩test</div>
+    <div class="example">{{ msg }}
+        <div>咩咩test</div>
+    </div>
+
 </template>
 <script>
     export default {
